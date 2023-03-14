@@ -1,1 +1,1 @@
-# odin-recipes
+This is a website with a few recipes using only HTML. This little project helped me learn and reinforce HTML skills I've acquired throughout The Odin Project, such as the basic tags, attributes, and more. Later on in the Odin Project I will add CSS, but for now it will look a little empty.
